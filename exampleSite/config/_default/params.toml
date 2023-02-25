@@ -42,8 +42,8 @@ button_link = "about/"
 content = "raven"
 enable = true
 image = "images/banner.png"
-title_large = "Welcome**!**"
-title_small = "to Nudge"
+title_large = "納舉 **!**"
+title_small = "行為科學主題平台"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
