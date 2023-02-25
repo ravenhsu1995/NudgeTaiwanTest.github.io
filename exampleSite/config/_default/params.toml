@@ -42,8 +42,8 @@ button_link = "about/"
 content = "行為科學主題平台"
 enable = true
 image = "images/banner.png"
-title_large = "Welcome **!**"
-title_small = "to 納舉"
+title_large = "歡迎來到 **!**"
+title_small = "納舉"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
