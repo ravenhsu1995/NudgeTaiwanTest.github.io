@@ -63,7 +63,7 @@ newsletter_reminder_a = "By Singing Up, You Agree To"
 newsletter_reminder_b = "Privacy Policy"
 newsletter_title = "Newsletter"
 [widgets]
-sidebar = ["關於我", "categories", "recent-post", "newsletter"]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
 [[social]]
 icon = "fab fa-facebook"
 link = "#"
