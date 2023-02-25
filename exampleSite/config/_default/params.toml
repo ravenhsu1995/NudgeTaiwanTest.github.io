@@ -42,7 +42,7 @@ button_link = "about/"
 content = ""
 enable = true
 image = "images/banner.png"
-title_large = "納舉 **!**"
+title_large = "納舉**!**"
 title_small = "行為科學主題平台"
 [cookies]
 button = "I Accept"
