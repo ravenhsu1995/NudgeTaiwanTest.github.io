@@ -38,7 +38,7 @@ link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "關於我"
-button_link = "about/"
+button_link = "關於我"
 content = "A fascinating world created by Raven Hsu"
 enable = true
 image = "images/banner.png"
