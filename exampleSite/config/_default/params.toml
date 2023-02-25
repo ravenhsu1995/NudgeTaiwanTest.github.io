@@ -36,7 +36,7 @@ theme_copyright = true
 image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
-background_image = "/images/logotext.png"
+background_image = ""
 button_label = "關於我"
 button_link = "about/"
 content = "行為科學主題平台"
