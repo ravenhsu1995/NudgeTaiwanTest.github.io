@@ -41,7 +41,7 @@ button_label = "關於我"
 button_link = "about/"
 content = "行為科學主題平台"
 enable = true
-image = "/images/change1.jpg"
+image = "/images/image.png"
 title_large = "納舉 **!**"
 title_small = ""
 [cookies]
